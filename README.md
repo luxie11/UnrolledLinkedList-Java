@@ -1,2 +1,1 @@
-# UnrolledLinkedList-Java
-This was created for University of Kaunas Technology
+This structure was created for lecture in University of Kaunas Technology.
